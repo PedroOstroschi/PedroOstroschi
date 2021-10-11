@@ -18,7 +18,8 @@
   <img align="center" alt="Pedro-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Pedro-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Pedro-BongoCat" src="https://discord.com/channels/@me/689905462480863259/897236995481411655.gif">
+  <img align="right" height="150" src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
+
 </div>
  
   ##
