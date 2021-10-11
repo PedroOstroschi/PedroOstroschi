@@ -29,4 +29,4 @@
   <a href="https://www.linkedin.com/in/pedro-ostroschi-b687719b/"><img align="center" alt="Pedro-Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-  ![Snake animation](https://github.com/PedroOstroschi/PedroOstroschi/blob/output/github-contribution-grid-snake.svg)
+ 
