@@ -1,4 +1,4 @@
-### Olá! Sou o Pedro Ostroschi
+### Hello ther! i'm Pedro Ostroschi
 
 - 🔭 Looking for work
 - 🌱 Studying Computer engenieer at UTFPR and QA in my free time
