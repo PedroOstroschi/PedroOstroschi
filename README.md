@@ -1,8 +1,8 @@
 ### Olá! Sou o Pedro Ostroschi
 
-- 🔭 Atualmente apenas estudando
-- 🌱 Estudando Engenharia da computação na UTFPR e QA por fora
-- 😄 Pronouns: ele/dele
+- 🔭 Looking for work
+- 🌱 Studying Computer engenieer at UTFPR and QA in my free time
+- 😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/PedroOstroschi">
