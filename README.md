@@ -1,7 +1,7 @@
 ### Hello there! i'm Pedro Ostroschi
 
 - 🔭 Looking for work
-- 🌱 Studying Computer engenieer at UTFPR and QA in my free time
+- 🌱 Studying Computer engenieer at UTFPR and tryng to find my path in the dev world
 - 😄 Pronouns: he/him
 
 <div align="center">
