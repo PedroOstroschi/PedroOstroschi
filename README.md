@@ -1,6 +1,6 @@
 ### Hello there! i'm Pedro Ostroschi
 
-- 🔭 Working at GrowingCo.
+- 🔭 Working at GrowingCo. as a QA Intern
 - 🌱 Studying Computer engenieer at UTFPR and tryng to find my path in the dev world
 - 😄 Pronouns: he/him
 
