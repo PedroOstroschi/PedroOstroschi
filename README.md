@@ -1,6 +1,6 @@
 ### Hello there! i'm Pedro Ostroschi
 
-- 🔭 Working at GrowingCo. as a QA Intern
+- 🔭 Working at NTTData as a QA specialist
 - 🌱 Studying Computer engenieer at UTFPR and tryng to find my path in the dev world
 - 😄 Pronouns: he/him
 
